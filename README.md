@@ -109,4 +109,4 @@ To see if e.g. your filter lists are valid without actually changing anything in
 
 ## License
 
-MIT License. See `LICENSE` for more information.
+MIT License. See `LICENSE` for more information.  

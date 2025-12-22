@@ -1,7 +1,7 @@
 name: Cloudflare Gateway Pi-hole Scripts
 on:
   schedule:
-    - cron: '0 3 * * 1'
+    - cron: '0 20 * * 0'
   workflow_dispatch:
 
 jobs:
